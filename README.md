@@ -1,2 +1,2 @@
-# fun-with-forks
-Preparation for Coffee and Code of 25/7
+# quirks-with-forks
+I have hidden some secrets in this repo. Can you find them?
